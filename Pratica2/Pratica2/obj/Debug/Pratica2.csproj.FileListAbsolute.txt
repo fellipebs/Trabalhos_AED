@@ -1,0 +1,13 @@
+C:\Users\claud\source\repos\Pratica2\Pratica2\bin\Debug\Pratica2.exe.config
+C:\Users\claud\source\repos\Pratica2\Pratica2\bin\Debug\Pratica2.exe
+C:\Users\claud\source\repos\Pratica2\Pratica2\bin\Debug\Pratica2.pdb
+C:\Users\claud\source\repos\Pratica2\Pratica2\obj\Debug\Pratica2.csprojAssemblyReference.cache
+C:\Users\claud\source\repos\Pratica2\Pratica2\obj\Debug\Pratica2.exe
+C:\Users\claud\source\repos\Pratica2\Pratica2\obj\Debug\Pratica2.pdb
+C:\Users\claud\Desktop\praticas\Pratica2\Pratica2\bin\Debug\Pratica2.exe.config
+C:\Users\claud\Desktop\praticas\Pratica2\Pratica2\bin\Debug\Pratica2.exe
+C:\Users\claud\Desktop\praticas\Pratica2\Pratica2\bin\Debug\Pratica2.pdb
+C:\Users\claud\Desktop\praticas\Pratica2\Pratica2\obj\Debug\Pratica2.csprojAssemblyReference.cache
+C:\Users\claud\Desktop\praticas\Pratica2\Pratica2\obj\Debug\Pratica2.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\praticas\Pratica2\Pratica2\obj\Debug\Pratica2.exe
+C:\Users\claud\Desktop\praticas\Pratica2\Pratica2\obj\Debug\Pratica2.pdb

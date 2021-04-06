@@ -1,0 +1,12 @@
+H:\AED\Pratica1\Pratica1\bin\Debug\Pratica1.exe.config
+H:\AED\Pratica1\Pratica1\bin\Debug\Pratica1.exe
+H:\AED\Pratica1\Pratica1\bin\Debug\Pratica1.pdb
+H:\AED\Pratica1\Pratica1\obj\Debug\Pratica1.csprojAssemblyReference.cache
+H:\AED\Pratica1\Pratica1\obj\Debug\Pratica1.exe
+H:\AED\Pratica1\Pratica1\obj\Debug\Pratica1.pdb
+C:\Users\claud\Desktop\Pratica1\Pratica1\bin\Debug\Pratica1.exe.config
+C:\Users\claud\Desktop\Pratica1\Pratica1\bin\Debug\Pratica1.exe
+C:\Users\claud\Desktop\Pratica1\Pratica1\bin\Debug\Pratica1.pdb
+C:\Users\claud\Desktop\Pratica1\Pratica1\obj\Debug\Pratica1.csprojAssemblyReference.cache
+C:\Users\claud\Desktop\Pratica1\Pratica1\obj\Debug\Pratica1.exe
+C:\Users\claud\Desktop\Pratica1\Pratica1\obj\Debug\Pratica1.pdb
