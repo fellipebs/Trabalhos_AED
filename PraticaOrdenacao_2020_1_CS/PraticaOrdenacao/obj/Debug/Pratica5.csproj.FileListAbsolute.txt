@@ -1,0 +1,10 @@
+C:\Users\claud\Desktop\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe.config
+C:\Users\claud\Desktop\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe
+C:\Users\claud\Desktop\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.pdb
+C:\Users\claud\Desktop\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\obj\Debug\Pratica5.csprojAssemblyReference.cache
+C:\Users\claud\Desktop\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\obj\Debug\Pratica5.FormOrdenacao.resources
+C:\Users\claud\Desktop\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.Properties.Resources.resources
+C:\Users\claud\Desktop\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\obj\Debug\Pratica5.csproj.GenerateResource.cache
+C:\Users\claud\Desktop\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\obj\Debug\Pratica5.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.exe
+C:\Users\claud\Desktop\PraticaOrdenacao_2020_1_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.pdb

@@ -1,0 +1,6 @@
+H:\AED\aula_vetor\aula_vetor\bin\Debug\aula_vetor.exe.config
+H:\AED\aula_vetor\aula_vetor\bin\Debug\aula_vetor.exe
+H:\AED\aula_vetor\aula_vetor\bin\Debug\aula_vetor.pdb
+H:\AED\aula_vetor\aula_vetor\obj\Debug\aula_vetor.csprojAssemblyReference.cache
+H:\AED\aula_vetor\aula_vetor\obj\Debug\aula_vetor.exe
+H:\AED\aula_vetor\aula_vetor\obj\Debug\aula_vetor.pdb

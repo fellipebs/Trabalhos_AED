@@ -1,0 +1,12 @@
+H:\Visual Studio 2019\Projects\piramide\piramide\bin\Debug\piramide.exe.config
+H:\Visual Studio 2019\Projects\piramide\piramide\bin\Debug\piramide.exe
+H:\Visual Studio 2019\Projects\piramide\piramide\bin\Debug\piramide.pdb
+H:\Visual Studio 2019\Projects\piramide\piramide\obj\Debug\piramide.csprojAssemblyReference.cache
+H:\Visual Studio 2019\Projects\piramide\piramide\obj\Debug\piramide.exe
+H:\Visual Studio 2019\Projects\piramide\piramide\obj\Debug\piramide.pdb
+H:\AED\piramide\piramide\bin\Debug\piramide.exe.config
+H:\AED\piramide\piramide\bin\Debug\piramide.exe
+H:\AED\piramide\piramide\bin\Debug\piramide.pdb
+H:\AED\piramide\piramide\obj\Debug\piramide.csprojAssemblyReference.cache
+H:\AED\piramide\piramide\obj\Debug\piramide.exe
+H:\AED\piramide\piramide\obj\Debug\piramide.pdb
